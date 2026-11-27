@@ -1,3 +1,4 @@
+https://share.gemini.google/6AL4P2748x9v
 ---
 title: "Chapter 1 Storyboard: Friction on the Divide (Visual Beat Sheet)"
 author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
