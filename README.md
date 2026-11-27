@@ -1,7 +1,7 @@
 https://share.gemini.google/6AL4P2748x9v
 
 ---
-title: "A Letter to Connor: Your Own Skills, Fresh Angles & Always Cared For"
+title: "A letter: Your Own Skills, Fresh Angles & Always Cared For"
 author: "Crystal Amber Connors-Charlton (M.A.D.M.O.M.™)"
 date: "2026-11-26"
 project: "M.A.D. Works™ / Motivation and Direction Works™ / The Architect's Contingency™"
