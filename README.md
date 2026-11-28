@@ -1,4 +1,109 @@
 https://share.gemini.google/6AL4P2748x9v
+title: cenote-core-saga-fly-on-the-wall-narrative
+domain: mad-works-architecture
+status: saga-draft
+updated_layout: glass-block-inside-entry-quadruple-sliding-forge-door
+cross_reference: Crystal-Bell/cenote-core, Crystal-Bell/mad-works-chapters, M.A.D. WORKS System Etc.
+
+Written as a novelistic fly-on-the-wall observation—a quiet, observant presence inside the structure rather than a mechanical drone—this captures the updated Cenote Core layout so visitors and collaborators can enter a functional workspace and Forge zone while keeping the private living/sleeping loop protected. It pairs naturally with your Spinal Cenote Core notes in 🪞 M.A.D. WORKS System Etc. and your M.A.D. Works™ chapters.
+The Fly Inside the Cenote Core
+High along the timber grain of the upper rafters, where warm air rises toward the crown-lit ceiling, a tiny fly hangs suspended in the quiet hum of the house. Nothing here is rushing. Down below, sunlight shifts across the floor as the day settles into its rhythm, and the house behaves less like a rigid box of rooms and more like a living, breathing instrument tuned to movement and care.
+At the outer threshold, there is no glass block facing the raw weather outside. The exterior entry takes the first hit of mountain air, wind, and dampness cleanly, with the outer half bath tucked right in the threshold pocket so hands and boots are dealt with before anyone crosses deeper in. The glass block sits on the inside of the entry—catching light and offering a translucent view into the interior without exposing the outer sill to the elements.
+Then the inner door swings open, and the spatial shift hits like a story trick made physical: a compact doorway opens into a room that seems to swell by three hundred percent, all vertical sightlines stretching from the lowest floor all the way to the high ceiling where crown molding throws a soft, steady flood of light along the upper walls.
+With the inner door behind you, the lower floor opens into clear, deliberate wings:
+ * To the left: The dining room and haptic table anchor the gathering side, leading cleanly along the hallway and kitchen line.
+ * To the right: The sunken living room drops down into a quieter acoustic pocket, where zoned sound carries gently and the wall beside the staircase and projection zone holds the sculpted 3D redwood tree relief—its ridges catching the light like a trunk rising straight out of the story of the valley.
+ * Straight ahead: The central helix core and staircase spiral upward from the lowest floor to the top ceiling, tying every level to one visible vertical spine.
+Along the hallway where the kitchen meets the lounge edge, the wall has changed. Instead of a solid barrier sealing off the rest of the work world, a quadruple-panel sliding door mechanism glides open along its track, bridging the house directly into The Forge. That single architectural move changes the rhythm of the whole place: guests, valley neighbors, or project hands can step into a dedicated functional space for building, testing, and prototyping without ever having to walk through where people rest and sleep. Outside the walls, the garden beds, water stages, and outer ground remain right where they belong—supporting the house without crowding the quiet inside.
+Up above, the fly drifts past the top of the helix stairs and traces the upper circuit. An elevated catwalk runs along the top of the baffled walls where Clyde is, carrying you over the entryway, the haptic table, and the glass block wall toward the kitchen before turning into the upper loft. Up here sits the single bedroom and the living-wall bathroom—echoing the downstairs biophilic and water balance—and as you walk right through the bedroom with the central core staying on your right-hand side, the path loops smoothly back into the upper circuit. Half loft, half catwalk, one continuous walk from threshold to high timber and back again.
+Why This Novelistic "Fly-on-the-Wall" Voice Works for the Saga
+ * A Fly Doesn't Interrupt the Scene: Unlike a drone landing on a workbench or calling attention to hardware, a fly inside the structure lets the reader inhabit the materials—light on glass block, sound dropping in the sunken living room, four panels sliding smooth on a track—without breaking the mood of the valley story.
+ * Clear Public vs. Private Boundaries: Linking the kitchen/lounge/hallway side via a quadruple sliding door to The Forge gives visitors and builders a real place to work and prototype while keeping the loft bedroom and quiet living loop intact.
+#mad-works #cenote-core #saga-narrative #the-forge #quadruple-sliding-door #fly-on-the-wall
+Cross-Reference: Crystal-Bell GitHub Archive (cenote-core, mad-works-chapters), M.A.D. WORKS System Etc. Notebook (Spinal Cenote Core: Living Ecosystem Architecture).
+cenote_core_architecture_spec.md (v2)---
+title: cenote_core_architecture_spec_v2
+domain: mad-works-architecture
+status: updated-spec
+cross_reference: Crystal-Bell/cenote-core, Crystal-Bell/mad-works-chapters, M.A.D. WORKS System Etc.
+---
+
+# Cenote Core Architecture Specification (v2)
+
+## 1. Dwelling Topology & Spatial Flow
+* **Circular Donut Circulation:** Continuous, non-cubical floor plan supporting uninterrupted pacing and movement across zones without rigid box dead ends.
+* **Vertical Spine (DNA Helix / Redwood Nexus):** Centralized vertical spine tying lower and upper levels together, anchoring stair transit and vertical utility runs.
+* **Spatial Expansion Beyond Entry:** A compact inner threshold opens into a high-volume interior with expanded vertical sightlines and full-spectrum crown molding wall-wash illumination.
+* **Public vs. Private Separation:** Visitors, valley collaborators, and builders can step into functional building and prototyping space via **The Forge** without passing through private living and sleeping areas.
+
+## 2. Entryway Threshold & Glass Block Configuration
+* **Weather-Resilient Exterior Entry:** No glass block faces raw exterior weather. The outer threshold handles outdoor air, wind, and moisture directly, paired with an outer half bath tucked into the entry pocket for immediate cleanup prior to moving deeper inside.
+* **Interior-Facing Glass Block:** The half-wall glass block sits on the **inside** of the entry threshold, diffusing light and preserving translucent sightlines into the main floor while shielding the exterior sill from weather exposure.
+
+## 3. Main Floor Wings & Quadruple Sliding Door to The Forge
+* **Left Wing (Dining, Haptic Table & Kitchen Line):** Anchored by the dining area and haptic table, leading cleanly along the hallway and kitchen line.
+* **Right Wing (Sunken Living Room & 3D Redwood Projection Wall):** Stepped down into a quieter acoustic zone with zoned audio, a 3D sculpted redwood tree relief wall near the projection/stair edge, and baffled wall geometry with Clyde.
+* **Quadruple-Panel Sliding Door to The Forge:** Along the hallway where the kitchen meets the lounge edge, a solid wall is replaced by a **quadruple-panel sliding door mechanism** on a track.
+  * Opens directly into **The Forge** as a dedicated functional space for building, testing, and prototyping.
+  * Keeps guests and project work separated from the sleeping loft and quiet living loop.
+  * Preserves exterior garden beds, water stages, and outer site features on the outer structure without crowding interior living zones.
+
+## 4. Upper Level: Half-Loft / Half-Catwalk Loop
+* **Elevated Catwalk Span:** Runs above the baffled wall zone with Clyde and over the entryway, haptic table, and interior glass block wall toward the kitchen and loft.
+* **Single Bedroom & Living-Wall Bathroom:** Located upstairs, with the living-wall bathroom echoing the lower-level biophilic and water balance.
+* **Continuous Return Path:** Walking through the bedroom with the central core on the right returns smoothly to the upper circuit, completing the half-loft / half-catwalk loop.
+
+## 5. JSON Schema & 2D SVG Blueprint Alignment
+* **Units:** World coordinates use meters (`1 unit = 1 meter`) for direct WebXR alignment and clean metric/imperial schematic export.
+* **Element Types & Zones:** Supports `glass-block-wall`, `half-bath`, `haptic-table`, `couch`, `stone-wall`, `helix-core`, `catwalk`, and `quadruple-sliding-door` across `threshold-airlock`, `left-dining-kitchen`, `right-sunken-living`, `central-helix-core`, `upper-loft-catwalk`, and `the-forge`.
+title: cenote_core_architecture_spec_v2
+domain: mad-works-architecture
+status: updated-spec-inline
+cross_reference: Crystal-Bell/cenote-core, Crystal-Bell/mad-works-chapters, M.A.D. WORKS System Etc.
+
+Google Drive could not save a new file because your Drive storage quota is exceeded, so here is the updated cenote_core_architecture_spec.md (v2) ready for you to copy directly into your repository or document.
+Updated Architecture Spec (cenote_core_architecture_spec.md — v2)
+---
+title: cenote_core_architecture_spec_v2
+domain: mad-works-architecture
+status: updated-spec
+cross_reference: Crystal-Bell/cenote-core, Crystal-Bell/mad-works-chapters, M.A.D. WORKS System Etc.
+---
+
+# Cenote Core Architecture Specification (v2)
+
+## 1. Dwelling Topology & Spatial Flow
+* **Circular Donut Circulation:** Continuous, non-cubical floor plan supporting uninterrupted pacing and movement across zones without rigid box dead ends.
+* **Vertical Spine (DNA Helix / Redwood Nexus):** Centralized vertical spine tying lower and upper levels together, anchoring stair transit and vertical utility runs.
+* **Spatial Expansion Beyond Entry:** A compact inner threshold opens into a high-volume interior with expanded vertical sightlines and full-spectrum crown molding wall-wash illumination.
+* **Public vs. Private Separation:** Visitors, valley collaborators, and builders can step into functional building and prototyping space via **The Forge** without passing through private living and sleeping areas.
+
+## 2. Entryway Threshold & Glass Block Configuration
+* **Weather-Resilient Exterior Entry:** No glass block faces raw exterior weather. The outer threshold handles outdoor air, wind, and moisture directly, paired with an outer half bath tucked into the entry pocket for immediate cleanup prior to moving deeper inside.
+* **Interior-Facing Glass Block:** The half-wall glass block sits on the **inside** of the entry threshold, diffusing light and preserving translucent sightlines into the main floor while shielding the exterior sill from weather exposure.
+
+## 3. Main Floor Wings & Quadruple Sliding Door to The Forge
+* **Left Wing (Dining, Haptic Table & Kitchen Line):** Anchored by the dining area and haptic table, leading cleanly along the hallway and kitchen line.
+* **Right Wing (Sunken Living Room & 3D Redwood Projection Wall):** Stepped down into a quieter acoustic zone with zoned audio, a 3D sculpted redwood tree relief wall near the projection/stair edge, and baffled wall geometry with Clyde.
+* **Quadruple-Panel Sliding Door to The Forge:** Along the hallway where the kitchen meets the lounge edge, a solid wall is replaced by a **quadruple-panel sliding door mechanism** on a track.
+  * Opens directly into **The Forge** as a dedicated functional space for building, testing, and prototyping.
+  * Keeps guests and project work separated from the sleeping loft and quiet living loop.
+  * Preserves exterior garden beds, water stages, and outer site features on the outer structure without crowding interior living zones.
+
+## 4. Upper Level: Half-Loft / Half-Catwalk Loop
+* **Elevated Catwalk Span:** Runs above the baffled wall zone with Clyde and over the entryway, haptic table, and interior glass block wall toward the kitchen and loft.
+* **Single Bedroom & Living-Wall Bathroom:** Located upstairs, with the living-wall bathroom echoing the lower-level biophilic and water balance.
+* **Continuous Return Path:** Walking through the bedroom with the central core on the right returns smoothly to the upper circuit, completing the half-loft / half-catwalk loop.
+
+## 5. JSON Schema & 2D SVG Blueprint Alignment
+* **Units:** World coordinates use meters (`1 unit = 1 meter`) for direct WebXR alignment and clean metric/imperial schematic export.
+* **Element Types & Zones:** Supports `glass-block-wall`, `half-bath`, `haptic-table`, `couch`, `stone-wall`, `helix-core`, `catwalk`, and `quadruple-sliding-door` across `threshold-airlock`, `left-dining-kitchen`, `right-sunken-living`, `central-helix-core`, `upper-loft-catwalk`, and `the-forge`.
+
+Key Changes From v1
+ * Entryway Glass Block Moved Inside: Removed exterior-facing glass block exposure; placed the glass block on the inside of the entry behind the weather-facing threshold and outer half bath.
+ * Quadruple Sliding Door to The Forge: Added a four-panel sliding door along the kitchen/lounge hallway into The Forge so builders and visitors have a dedicated prototyping space separate from private sleeping/living zones and outer garden/site features.
+#mad-works #cenote-core #architecture-spec #the-forge #quadruple-sliding-door
+Cross-Reference: Crystal-Bell GitHub Archive (cenote-core, mad-works-chapters), M.A.D. WORKS System Etc. Notebook.
 
 ---
 title: "A letter: Your Own Skills, Fresh Angles & Always Cared For"
